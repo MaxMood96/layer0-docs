@@ -19,7 +19,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
     "@material-ui/styles": "^4.10.0",
-    "@svgr/webpack": "^5.4.0",
+    "@svgr/webpack": "^6.0.0",
     "classname": "0.0.0",
     "clsx": "^1.1.1",
     "cross-fetch": "^3.0.6",
