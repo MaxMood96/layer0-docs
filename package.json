@@ -28,7 +28,7 @@
     "lodash.throttle": "^4.1.1",
     "lunr": "^2.3.8",
     "markdown-headings": "^2.0.0",
-    "next": "^10.0.7",
+    "next": "^10.2.0",
     "raw-loader": "^4.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -38,13 +38,13 @@
     "url-loader": "^4.1.0"
   },
   "devDependencies": {
-    "@layer0/cli": "^4.13.5",
+    "@layer0/cli": "^4.19.5",
     "@layer0/core": "^4.13.5",
     "@layer0/devtools": "^4.13.5",
     "@layer0/prefetch": "^4.13.5",
     "@layer0/react": "^4.13.5",
     "babel-loader": "^8.1.0",
     "prettier": "^1.19.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.0.0"
   }
 }
