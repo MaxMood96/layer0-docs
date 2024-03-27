@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "lodash.throttle": "^4.1.1",
     "lunr": "^2.3.8",
-    "markdown-headings": "^2.0.0",
+    "markdown-headings": "^4.0.0",
     "next": "^10.0.7",
     "raw-loader": "^4.0.1",
     "react": "^17.0.1",
