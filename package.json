@@ -45,6 +45,6 @@
     "@layer0/react": "^4.13.5",
     "babel-loader": "^8.1.0",
     "prettier": "^1.19.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.1.1"
   }
 }
